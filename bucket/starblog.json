@@ -1,12 +1,12 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "StarBlog Publisher CLI - 博客发布命令行工具和 MCP Server",
   "homepage": "https://github.com/star-blog/starblog-publisher",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/star-blog/starblog-publisher/releases/download/v2.3.1/StarBlogCli-windows-2.3.1.zip",
-      "hash": "8525588f2c2b6124900b2d3fcb362e2bf7ab13661687007aed5e99e385733fc3"
+      "url": "https://github.com/star-blog/starblog-publisher/releases/download/v2.3.2/StarBlogCli-windows-2.3.2.zip",
+      "hash": "74e165acf45c27587ac32fd62e6b3cff73e00344273fc22eebaa2d1eb09b0beb"
     }
   },
   "bin": "StarBlogPublisher.Cli.exe",
